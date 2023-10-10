@@ -1,0 +1,32 @@
+h1{
+    color:  rgb(118, 6, 118);
+}
+p{
+    font-size: x-large;
+    color: rgb(118, 6, 118);
+}
+label{
+    color: rgb(118, 6, 118)
+}
+.play{
+    background-image: url(./hphph.png);
+    width: 400px;
+    height: 400px;
+    background-repeat: no-repeat;
+    
+    cursor: pointer;
+    /* background-size:contain;
+    width: 1000px;
+    border-radius: 20px;
+    box-shadow: 0 10px 20px -5px #ccc;
+    */
+}
+.play:hover{
+    background-image: url(./huhuhu.gif);
+
+}
+
+
+  
+
+
